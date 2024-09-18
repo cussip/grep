@@ -7,7 +7,7 @@ class TodoScn extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Work'),
+        title: Text('Work - Test'),
       ) ,
       body: Padding(
         padding: EdgeInsets.all(8.0),
